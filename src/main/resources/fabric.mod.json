@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pebblesid",
+  "version": "${version}",
+
+  "name": "Throwing Pebbles",
+  "description": "Imagine having to get close to attack someone... so outdated",
+  "authors": [
+    "PedroR009"
+  ],
+  "contact": {
+    "sources": "https://github.com/PedroR009/throwing-pebbles-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/pebblesid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pedror009.throwingpebbles.ThrowingPebbles"
+    ],
+    "client": [
+      "com.pedror009.throwingpebbles.ThrowingPebblesClient"
+    ]
+  },
+  "mixins": [
+    "pebblesid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

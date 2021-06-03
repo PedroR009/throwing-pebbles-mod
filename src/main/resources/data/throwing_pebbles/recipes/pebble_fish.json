@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "throwing_pebbles:pebble"},
+    {"item": "minecraft:pufferfish"}
+  ],
+  "result": {
+    "item": "throwing_pebbles:pebble_fish",
+    "count": 1
+  }
+}
