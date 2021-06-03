@@ -1,4 +1,4 @@
-# Throwing Pebbles Mod [![GitHub](https://img.shields.io/github/license/PedroRaymundi/throwing-pebbles-mod)](https://github.com//PedroRaymundi/throwing-pebbles-mod/blob/master/LICENSE)
+# Throwing Pebbles Mod [![GitHub](https://img.shields.io/github/license/PedroR009/throwing-pebbles-mod)](https://github.com//PedroR009/throwing-pebbles-mod/blob/master/LICENSE)
 This is a mod i did to learn some java and have fun. It adds revolutionizing stuff as breaking rocks and throwing them. I know that such technology seems complicated but its actually really easy to just start using this mod when playing.
 
 ## New Items
