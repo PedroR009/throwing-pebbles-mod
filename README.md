@@ -11,6 +11,12 @@ Slingshot|Yeah yeah, you _can_ use your hands, but if the target is far away you
 
 PS: maybe i will add some more things, I don't know.
 
+## Recipes
+![Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/pebble_recipe.png "Pebble Recipe")
+![Magma Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/magma_pebble_recipe.png "Magma Pebble Recipe")
+![Fish Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/fish_pebble_recipe.png "Fish Pebble Recipe")
+![Slingshot Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/slingshot_recipe.png "Slingshot Recipe")
+
 ## Downloads
 * ### Curse Forge:
 * ### :
