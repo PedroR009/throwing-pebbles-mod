@@ -18,5 +18,5 @@ PS: maybe i will add some more things, I don't know.
 ![Slingshot Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/slingshot_recipe.png "Slingshot Recipe")
 
 ## Downloads
-* ### Curse Forge:
-* ### :
+* ### [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/throwing-pebbles)
+* ### [Modrinth]
