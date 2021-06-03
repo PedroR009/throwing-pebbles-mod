@@ -13,8 +13,8 @@ PS: maybe i will add some more things, I don't know.
 
 ## Recipes
 ![Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/pebble_recipe.png "Pebble Recipe")
-![Magma Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/magma_pebble_recipe.png "Magma Pebble Recipe")
-![Fish Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/fish_pebble_recipe.png "Fish Pebble Recipe")
+![Magma Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/magmapebble_recipe.png "Magma Pebble Recipe")
+![Fish Pebble Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/fishpebble_recipe.png "Fish Pebble Recipe")
 ![Slingshot Recipe](https://github.com/PedroR009/PedroR009-mod-assets/blob/main/throwing_pebbles/slingshot_recipe.png "Slingshot Recipe")
 
 ## Downloads
